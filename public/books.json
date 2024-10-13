@@ -1,0 +1,102 @@
+[
+    {
+      "id": 1,
+      "name": "The Fault in Our Stars",
+      "writer": "John Green",
+      "image": "https://i.ibb.co/gJsCh44/kindpng-4945926-1.png",
+      "number_of_Pages": 313,
+      "Publisher": "Penguin Books",
+      "Year_of_Publishing": 2012,
+      "Rating": 4.3,
+      "review": "A beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and loss."
+    },
+    {
+      "id": 2,
+      "name": "Harry Potter and the Sorcerer's Stone",
+      "writer": "J.K. Rowling",
+      "image": "https://i.ibb.co/8gH4tqT/kindpng-2592315-1.png",
+      "number_of_Pages": 309,
+      "Publisher": "Bloomsbury Publishing",
+      "Year_of_Publishing": 1997,
+      "Rating": 4.7,
+      "review": "An enchanting start to a magical series, captivating readers of all agesA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and loss."
+    },
+    {
+      "id": 3,
+      "name": "To Kill a Mockingbird",
+      "writer": "Harper Lee",
+      "image": "https://i.ibb.co/F3X0Vvh/kindpng-5624060-1.png",
+      "number_of_Pages": 281,
+      "Publisher": "J. B. Lippincott & Co.",
+      "Year_of_Publishing": 1960,
+      "Rating": 4.5,
+      "review": "A timeless classic that addresses themes of racism, morality, and innocenceA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and loss."
+    },
+    {
+      "id": 4,
+      "name": "The Catcher in the Rye",
+      "writer": "J.D. Salinger",
+      "image": "https://i.ibb.co/yNsXthv/kindpng-2193744-1.png",
+      "number_of_Pages": 277,
+      "Publisher": "Little, Brown and Company",
+      "Year_of_Publishing": 1951,
+      "Rating": 4.0,
+      "review": "A thought-provoking novel exploring teenage angst and rebellionA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and loss."
+    },
+    {
+      "id": 5,
+      "name": "The Great Gatsby",
+      "writer": "F. Scott Fitzgerald",
+      "image": "https://i.ibb.co/zG7L9Gg/kindpng-81724-1.png",
+      "number_of_Pages": 180,
+      "Publisher": "Charles Scribner's Sons",
+      "Year_of_Publishing": 1925,
+      "Rating": 4.2,
+      "review": "An evocative portrayal of the Jazz Age and the American DreamA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and loss."
+    },
+    {
+      "id": 6,
+      "name": "1984",
+      "writer": "George Orwell",
+      "image": "https://i.ibb.co/YLnVpD5/kindpng-4022054-1.png",
+      "number_of_Pages": 328,
+      "Publisher": "Secker & Warburg",
+      "Year_of_Publishing": 1949,
+      "Rating": 4.6,
+      "review": "A dystopian masterpiece that remains relevant in its exploration of totalitarianism.A beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and loss"
+    },
+    {
+      "id": 7,
+      "name": "Pride and Prejudice",
+      "writer": "Jane Austen",
+      "image": "https://i.ibb.co/g6hCy66/kindpng-1064993.png",
+      "number_of_Pages": 279,
+      "Publisher": "T. Egerton, Whitehall",
+      "Year_of_Publishing": 1813,
+      "Rating": 4.4,
+      "review": "A charming tale of love, manners, and societal expectations in Regency England.A beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and loss"
+    },
+    {
+      "id": 8,
+      "name": "The Hunger Games",
+      "writer": "Suzanne Collins",
+      "image": "https://i.ibb.co/vc28NrY/kindpng-7318921.png",
+      "number_of_Pages": 374,
+      "Publisher": "Scholastic Corporation",
+      "Year_of_Publishing": 2008,
+      "Rating": 4.2,
+      "review": "A gripping dystopian adventure that explores themes of survival and rebellion.A beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and loss"
+    },
+    {
+      "id": 9,
+      "name": "Animal Farm",
+      "writer": "George Orwell",
+      "image": "https://i.ibb.co/HYf3vXM/pngwing-1-1.png",
+      "number_of_Pages": 112,
+      "Publisher": "Secker & Warburg",
+      "Year_of_Publishing": 1945,
+      "Rating": 4.5,
+      "review": "A satirical allegory that cleverly critiques the Russian Revolution.A beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and lossA beautifully written novel that captures the complexities of life, love, and loss"
+    }
+  ]
+  
